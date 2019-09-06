@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/antoniopacheco/react-thumbnail-extractor-demo/static/css/main.5c6ada6d.chunk.css",
+    "main.js": "/antoniopacheco/react-thumbnail-extractor-demo/static/js/main.1319b26d.chunk.js",
+    "main.js.map": "/antoniopacheco/react-thumbnail-extractor-demo/static/js/main.1319b26d.chunk.js.map",
+    "runtime~main.js": "/antoniopacheco/react-thumbnail-extractor-demo/static/js/runtime~main.75b0bfbe.js",
+    "runtime~main.js.map": "/antoniopacheco/react-thumbnail-extractor-demo/static/js/runtime~main.75b0bfbe.js.map",
+    "static/js/2.241b26fd.chunk.js": "/antoniopacheco/react-thumbnail-extractor-demo/static/js/2.241b26fd.chunk.js",
+    "static/js/2.241b26fd.chunk.js.map": "/antoniopacheco/react-thumbnail-extractor-demo/static/js/2.241b26fd.chunk.js.map",
+    "index.html": "/antoniopacheco/react-thumbnail-extractor-demo/index.html",
+    "precache-manifest.37edeaa2cbd11791b62f317c7f3cb37b.js": "/antoniopacheco/react-thumbnail-extractor-demo/precache-manifest.37edeaa2cbd11791b62f317c7f3cb37b.js",
+    "service-worker.js": "/antoniopacheco/react-thumbnail-extractor-demo/service-worker.js",
+    "static/css/main.5c6ada6d.chunk.css.map": "/antoniopacheco/react-thumbnail-extractor-demo/static/css/main.5c6ada6d.chunk.css.map",
+    "static/media/logo.svg": "/antoniopacheco/react-thumbnail-extractor-demo/static/media/logo.5d5d9eef.svg"
+  }
+}
