@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/antoniopacheco/react-thumbnail-extractor-demo/static/css/main.5c6ada6d.chunk.css",
-    "main.js": "/antoniopacheco/react-thumbnail-extractor-demo/static/js/main.1319b26d.chunk.js",
-    "main.js.map": "/antoniopacheco/react-thumbnail-extractor-demo/static/js/main.1319b26d.chunk.js.map",
-    "runtime~main.js": "/antoniopacheco/react-thumbnail-extractor-demo/static/js/runtime~main.75b0bfbe.js",
-    "runtime~main.js.map": "/antoniopacheco/react-thumbnail-extractor-demo/static/js/runtime~main.75b0bfbe.js.map",
-    "static/js/2.241b26fd.chunk.js": "/antoniopacheco/react-thumbnail-extractor-demo/static/js/2.241b26fd.chunk.js",
-    "static/js/2.241b26fd.chunk.js.map": "/antoniopacheco/react-thumbnail-extractor-demo/static/js/2.241b26fd.chunk.js.map",
-    "index.html": "/antoniopacheco/react-thumbnail-extractor-demo/index.html",
-    "precache-manifest.37edeaa2cbd11791b62f317c7f3cb37b.js": "/antoniopacheco/react-thumbnail-extractor-demo/precache-manifest.37edeaa2cbd11791b62f317c7f3cb37b.js",
-    "service-worker.js": "/antoniopacheco/react-thumbnail-extractor-demo/service-worker.js",
-    "static/css/main.5c6ada6d.chunk.css.map": "/antoniopacheco/react-thumbnail-extractor-demo/static/css/main.5c6ada6d.chunk.css.map",
-    "static/media/logo.svg": "/antoniopacheco/react-thumbnail-extractor-demo/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-thumbnail-extractor-demo/static/css/main.5c6ada6d.chunk.css",
+    "main.js": "/react-thumbnail-extractor-demo/static/js/main.ea87da0f.chunk.js",
+    "main.js.map": "/react-thumbnail-extractor-demo/static/js/main.ea87da0f.chunk.js.map",
+    "runtime~main.js": "/react-thumbnail-extractor-demo/static/js/runtime~main.9eda150f.js",
+    "runtime~main.js.map": "/react-thumbnail-extractor-demo/static/js/runtime~main.9eda150f.js.map",
+    "static/js/2.241b26fd.chunk.js": "/react-thumbnail-extractor-demo/static/js/2.241b26fd.chunk.js",
+    "static/js/2.241b26fd.chunk.js.map": "/react-thumbnail-extractor-demo/static/js/2.241b26fd.chunk.js.map",
+    "index.html": "/react-thumbnail-extractor-demo/index.html",
+    "precache-manifest.d27d2a159fc8cd2410d16ac0250d6772.js": "/react-thumbnail-extractor-demo/precache-manifest.d27d2a159fc8cd2410d16ac0250d6772.js",
+    "service-worker.js": "/react-thumbnail-extractor-demo/service-worker.js",
+    "static/css/main.5c6ada6d.chunk.css.map": "/react-thumbnail-extractor-demo/static/css/main.5c6ada6d.chunk.css.map",
+    "static/media/logo.svg": "/react-thumbnail-extractor-demo/static/media/logo.5d5d9eef.svg"
   }
 }
