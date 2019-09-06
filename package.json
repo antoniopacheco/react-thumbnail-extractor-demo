@@ -2,7 +2,7 @@
   "name": "react-thumbnail-extractor-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/antoniopacheco/react-thumbnail-extractor-demo",
+  "homepage": "https://antoniopacheco.github.io/react-thumbnail-extractor-demo/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
