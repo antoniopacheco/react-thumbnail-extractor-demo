@@ -51,6 +51,9 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header"><h1>ThumbnailExtractor Demo</h1></header>
+        <div>
+          <a href="https://github.com/antoniopacheco/react-thumbnail-extractor-demo/blob/master/src/App.js">Source code</a>
+        </div>
         <input type="file" onChange={this.handleChange} accept="video/mp4,video/x-m4v,video/*"></input>
         <div className="imageContainer">
         <ThumbnailExtractor displayImages maxWidth={600} onCompleteDetails={this.onCompleteDetails} onComplete={this.onComplete} onCapture={this.onCapture} onUnsupportedVideo={this.onUnsupportedVideo}  onBeforeCapture={this.onBeforeCapture} onStartCapture={this.onStartCapture} videoFile={this.state.file} />
